@@ -4,3 +4,4 @@ Este repositorio contiene los archivos requeridos para ejecutar el proyecto de c
 
 
 # Archivo fuente a ejecutar: Main_prac11.cpp.
+nota: Falta revisar por qué ciertas texturas no se muestran como deberían y sale todo en negro.
